@@ -1,4 +1,4 @@
-# MUVI 
+# MUVIX APP
 ## Welcome to the Movie App! This is a web application built using Vite and Redux, designed to help users discover and explore movies. Whether you're a cinephile looking for your next favorite film or just want to relax with some entertainment, this app has you covered.
 
 ## Features
